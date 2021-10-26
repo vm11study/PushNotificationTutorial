@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string  name="welcome_message"> "FAKE KOUP 디버그 전용"</string>
+    <string name="app_name">푸시앱 디버그</string>
 </resources>

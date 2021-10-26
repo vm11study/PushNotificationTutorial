@@ -33,35 +33,6 @@
           ]
         }
       }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:1049547679258:android:ff111025656aef3495d3a3",
-        "android_client_info": {
-          "package_name": "com.example.pushnotificationtutorial.debug"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "1049547679258-hlg0c83ehui0vsrlvc79q0o5vgcfmrv8.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyDF2aDQyxDyTNNMFXbederj4Fs8hq8sJJU"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "1049547679258-hlg0c83ehui0vsrlvc79q0o5vgcfmrv8.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
     }
   ],
   "configuration_version": "1"

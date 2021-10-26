@@ -7,38 +7,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:332604758289:android:153b2a001f8e622f2354b0",
-        "android_client_info": {
-          "package_name": "com.example.pushnotificationtutorial.debug"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "332604758289-7e11hpfo2q2i2a80ep5vkfn3uep5r1jd.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyCmLB62ITzFFJRY4hBk4FL8-i8iCbIHiKU"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "332604758289-7e11hpfo2q2i2a80ep5vkfn3uep5r1jd.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
         "mobilesdk_app_id": "1:332604758289:android:ba2b6be754e807412354b0",
         "android_client_info": {
-          "package_name": "com.example.pushnotificationtutorial.release"
+          "package_name": "com.example.pushnotificationtutorial.debug"
         }
       },
       "oauth_client": [
